@@ -35,7 +35,7 @@ int main(int argc, char * argv[]){
 int main() {
 	pid_t filho;
     int matriz[10][50];
-    int needle = 32;
+    int needle = 20;
 	int status;
 
     for (int i= 0; i<NUM_LINHAS; i++){
